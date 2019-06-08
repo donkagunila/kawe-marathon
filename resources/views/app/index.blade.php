@@ -17,7 +17,7 @@
 	</section>
 
 
-	<section class="mission">
+	{{-- <section class="mission">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6 pl-30">
@@ -69,9 +69,9 @@
 			</div>
 		</div>
 	</section>
+ --}}
 
-
-	<section class="reason">
+	{{-- <section class="reason">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6 no-pad">
@@ -97,7 +97,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> --}}
 
 
 	<section class="event">
