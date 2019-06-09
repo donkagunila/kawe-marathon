@@ -1,167 +1,186 @@
-<div class="social-links bg-dark">
-	<div class="container">
-		<div class="col-md-12">
-			<ul>
-				<li>
-					<a href="" target="blank">
-						<span>
-							<i class="fa fa-facebook"></i>
-						</span>
+  <!-- FOOTER
+    ================================================== -->
+    <footer class="py-8 py-md-11 bg-white">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-md-4 col-lg-3">
+        
+            <!-- Brand -->
+            <img src="{{ asset('img/logo.png') }}" alt="..." class="footer-brand img-fluid mb-2">
 
-						Facebook
-					</a>
-				</li>
+            <!-- Text -->
+            <p class="text-gray-700 mb-2">
+              A better way to build.
+            </p>
 
-				<li>
-					<a href="" target="blank">
-						<span>
-							<i class="fa fa-instagram"></i>
-						</span>
+            <!-- Social -->
+            <ul class="list-unstyled list-inline list-social mb-6 mb-md-0">
+              <li class="list-inline-item list-social-item mr-3">
+                <a href="#!" class="text-decoration-none">
+                  <img src="assets/img/icons/social/instagram.svg" class="list-social-icon" alt="...">
+                </a>
+              </li>
+              <li class="list-inline-item list-social-item mr-3">
+                <a href="#!" class="text-decoration-none">
+                  <img src="assets/img/icons/social/facebook.svg" class="list-social-icon" alt="...">
+                </a>
+              </li>
+              <li class="list-inline-item list-social-item mr-3">
+                <a href="#!" class="text-decoration-none">
+                  <img src="assets/img/icons/social/twitter.svg" class="list-social-icon" alt="...">
+                </a>
+              </li>
+              <li class="list-inline-item list-social-item">
+                <a href="#!" class="text-decoration-none">
+                  <img src="assets/img/icons/social/pinterest.svg" class="list-social-icon" alt="...">
+                </a>
+              </li>
+            </ul>
 
-						Instagram
-					</a>
-				</li>
+          </div>
+          <div class="col-6 col-md-4 col-lg-2">
+        
+            <!-- Heading -->
+            <h6 class="font-weight-bold text-uppercase text-gray-700">
+              Products
+            </h6>
 
+            <!-- List -->
+            <ul class="list-unstyled text-muted mb-6 mb-md-8 mb-lg-0">
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Page Builder
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  UI Kit
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Styleguide
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Documentation
+                </a>
+              </li>
+              <li>
+                <a href="#!" class="text-reset">
+                  Changelog
+                </a>
+              </li>
+            </ul>
 
-				<li>
-					<a href="" target="blank">
-						<span>
-							<i class="fa fa-twitter"></i>
-						</span>
+          </div>
+          <div class="col-6 col-md-4 col-lg-2">
+        
+            <!-- Heading -->
+            <h6 class="font-weight-bold text-uppercase text-gray-700">
+              Services
+            </h6>
 
-						Twitter
-					</a>
-				</li>
+            <!-- List -->
+            <ul class="list-unstyled text-muted mb-6 mb-md-8 mb-lg-0">
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Documentation
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Changelog
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Pagebuilder
+                </a>
+              </li>
+              <li>
+                <a href="#!" class="text-reset">
+                  UI Kit
+                </a>
+              </li>
+            </ul>
 
-				<li>
-					<a href="" target="blank">
-						<span>
-							<i class="fa fa-youtube"></i>
-						</span>
+          </div>
+          <div class="col-6 col-md-4 offset-md-4 col-lg-2 offset-lg-0">
+        
+            <!-- Heading -->
+            <h6 class="font-weight-bold text-uppercase text-gray-700">
+              Connect
+            </h6>
 
-						Youtube
-					</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-</div>
+            <!-- List -->
+            <ul class="list-unstyled text-muted mb-0">
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Page Builder
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  UI Kit
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Styleguide
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Documentation
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Changelog
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Documentation
+                </a>
+              </li>
+              <li>
+                <a href="#!" class="text-reset">
+                  Changelog
+                </a>
+              </li>
+            </ul>
 
-<footer class="page-footer">
-	<div class="footer-top">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-5">
-					<section>
-						<h3 class="footer-title">
-							Kawe Marathon <span class="dot"></span>
-						</h3>
+          </div>
+          <div class="col-6 col-md-4 col-lg-2">
+        
+            <!-- Heading -->
+            <h6 class="font-weight-bold text-uppercase text-gray-700">
+              Legal
+            </h6>
 
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, quibusdam, pariatur. Fugit natus labore voluptas, aspernatur nobis error animi. Quod mollitia tempore et tempora nulla in alias enim provident debitis?
-						</p>
-					</section>
-				</div>
+            <!-- List -->
+            <ul class="list-unstyled text-muted mb-0">
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Documentation
+                </a>
+              </li>
+              <li class="mb-3">
+                <a href="#!" class="text-reset">
+                  Changelog
+                </a>
+              </li>
+              <li>
+                <a href="#!" class="text-reset">
+                  Pagebuilder
+                </a>
+              </li>
+            </ul>
 
-
-				<div class="col-md-3">
-					<section>
-						<h3 class="footer-title">
-							Useful links <span class="dot"></span>
-						</h3>
-
-						<ul class="footer-item">
-							<li class="footer-link">
-								<a href="">
-									About Us
-								</a>
-							</li>
-
-							<li class="footer-link">
-								<a href="">
-									Marathons and Missions
-								</a>
-							</li>
-						</ul>
-					</section>
-				</div>
-
-				<div class="col-md-4">
-					<section>
-						<h3 class="footer-title">
-							Our Contacts <span class="dot"></span>
-						</h3>
-
-						<ul class="footer-item">
-							<li class="footer-link">
-								<div class="icon-part">
-									<span class="link-icon">
-										<i class="fa fa-map-marker"></i>
-									</span>
-								</div>
-
-								<div class="footer-links-spans">
-									<span class="link-title">Marathon start point</span>
-									<span class="link-faint">
-										Maringo round about
-									</span>
-								</div>
-								
-							</li>
-
-
-							<li class="footer-link">
-								<div class="icon-part">
-									<span class="link-icon">
-										<i class="fa fa-phone"></i>
-									</span>
-								</div>
-
-								<div class="footer-links-spans">
-									<span class="link-title">Contact Phone</span>
-									<span class="link-faint">
-										+255 652 441 424
-									</span>
-								</div>
-								
-							</li>
-
-							<li class="footer-link">
-								<div class="icon-part">
-									<span class="link-icon">
-										<i class="fa fa-envelope-o"></i>
-									</span>
-								</div>
-
-								<div class="footer-links-spans">
-									<span class="link-title">Contact Email</span>
-									<span class="link-faint">
-										Maringo round about
-									</span>
-								</div>
-								
-							</li>
-
-
-						</ul>
-					</section>
-				</div>
-
-
-			</div>
-		</div>
-	</div>
-
-
-	<div class="footer-bottom">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<p>
-						Kawe Marathon &copy {{ now()->year }} . all Rights reserved
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</footer>
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+    </footer>

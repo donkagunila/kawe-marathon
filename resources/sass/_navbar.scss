@@ -1,0 +1,38 @@
+.navbar{
+	height: 64px;
+	box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.10);
+	background-color: #fff !important;
+}
+.h-full{
+	height: 64px;
+}
+.navbar-collapse, .navbar-nav , .nav-item{
+	height: 100%;
+}
+.nav-item{
+	border-left: 1px solid rgba(0,0,0,0.09);
+	min-width: 100px;
+	padding: 14px;
+}
+.nav-link{
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+}
+.nav-item.btn-primary{
+	color: #fff; 
+}
+.navbar-brand{
+	height: 100%;
+	overflow: hidden;
+	img{
+		// width: 130px;
+		height: 60px;
+	}
+}
