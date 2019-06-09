@@ -3,14 +3,14 @@
     <footer class="py-8 py-md-11 bg-white">
       <div class="container">
         <div class="row">
-          <div class="col-12 col-md-4 col-lg-3">
+          <div class="col-12 col-md-4">
         
             <!-- Brand -->
             <img src="{{ asset('img/logo.png') }}" alt="..." class="footer-brand img-fluid mb-2">
 
             <!-- Text -->
             <p class="text-gray-700 mb-2">
-              A better way to build.
+              Lets Run Together
             </p>
 
             <!-- Social -->
@@ -38,123 +38,37 @@
             </ul>
 
           </div>
-          <div class="col-6 col-md-4 col-lg-2">
+          <div class="col-6 col-md-4">
         
             <!-- Heading -->
             <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Products
+              Quick Links
             </h6>
 
             <!-- List -->
             <ul class="list-unstyled text-muted mb-6 mb-md-8 mb-lg-0">
               <li class="mb-3">
                 <a href="#!" class="text-reset">
-                  Page Builder
+                  About Us
                 </a>
               </li>
               <li class="mb-3">
                 <a href="#!" class="text-reset">
-                  UI Kit
+                  Contact Us
                 </a>
               </li>
               <li class="mb-3">
                 <a href="#!" class="text-reset">
-                  Styleguide
+                  Registration
                 </a>
               </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
+
             </ul>
 
           </div>
-          <div class="col-6 col-md-4 col-lg-2">
         
-            <!-- Heading -->
-            <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Services
-            </h6>
-
-            <!-- List -->
-            <ul class="list-unstyled text-muted mb-6 mb-md-8 mb-lg-0">
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Pagebuilder
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  UI Kit
-                </a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-6 col-md-4 offset-md-4 col-lg-2 offset-lg-0">
-        
-            <!-- Heading -->
-            <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Connect
-            </h6>
-
-            <!-- List -->
-            <ul class="list-unstyled text-muted mb-0">
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Page Builder
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  UI Kit
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Styleguide
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-6 col-md-4 col-lg-2">
+         
+          <div class="col-6 col-md-4">
         
             <!-- Heading -->
             <h6 class="font-weight-bold text-uppercase text-gray-700">
@@ -165,19 +79,15 @@
             <ul class="list-unstyled text-muted mb-0">
               <li class="mb-3">
                 <a href="#!" class="text-reset">
-                  Documentation
+                  Terms And Conditions
                 </a>
               </li>
               <li class="mb-3">
                 <a href="#!" class="text-reset">
-                  Changelog
+                  Offices
                 </a>
               </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  Pagebuilder
-                </a>
-              </li>
+             
             </ul>
 
           </div>
