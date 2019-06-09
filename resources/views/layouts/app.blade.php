@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Libs CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/fonts/Feather/feather.css') }}') }}">
+    <link rel="stylesheet" href="{{ asset('assets/fonts/Feather/feather.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/libs/flickity/dist/flickity.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/libs/flickity-fade/flickity-fade.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/libs/aos/dist/aos.css') }}">

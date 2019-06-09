@@ -14136,6 +14136,13 @@ h6.text-uppercase {
     }
 }
 
+@media screen and (max-width: 558px ) {
+	.display-1.larger {
+    	margin-top: 30px;
+	    /*font-size: .375rem*/
+	}
+}
+
 .display-2 {
     line-height: 1.2
 }
